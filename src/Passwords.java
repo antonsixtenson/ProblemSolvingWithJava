@@ -5,7 +5,7 @@ import java.util.Random;
 *   Create a password-generator that generates a password
 *   containing lower-case letter, upper-case letter and digit.
 *   Passwords is considered "Passed" when they contain at least
-*   one of each above requirements. (one lower-case, one upper-case, one digit).
+*   one of each above mentioned chars. (one lower-case, one upper-case, one digit).
 *
 */
 
